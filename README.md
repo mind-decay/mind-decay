@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://mind-decay.github.io/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="My site :)"></a>
+</p>
+
 <h3 align="center">
 Hi there, my name is <a href="https://mind-decay.github.io/" target="_blank" rel="noreferrer">Adam</a> 👋🏻
 </h3>
