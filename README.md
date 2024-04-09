@@ -30,3 +30,5 @@ I've been doing frontend development for over 4 years now, and for me it's not j
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+![Snake animation](https://github.com/mind-decay/mind-decay/blob/output/github-contribution-grid-snake.svg)
