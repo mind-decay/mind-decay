@@ -7,10 +7,10 @@ Hi there, my name is <a href="https://mind-decay.github.io/" target="_blank" rel
 </h3>
 
 <h2 align="center">
-I'm a Front-end Web Developer 💻 with more than 4 years of experience ☺️
+I'm a Front-end Web Developer 💻 with more than 5 years of experience ☺️
 </h2> 
 
-I've been doing frontend development for over 4 years now, and for me it's not just a job, it's also a hobby. I specialize in React, am familiar with Next.js, and also had some experience with Vue/Nuxt.
+I've been doing frontend development for over 5 years now, and for me it's not just a job, it's also a hobby. I specialize in React, am familiar with Next.js, and also had some experience with Vue/Nuxt.
 
 ## 💪🏻 My Skills:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
